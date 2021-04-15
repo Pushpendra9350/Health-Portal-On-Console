@@ -247,7 +247,6 @@ void sign_up()
             printf("*");
         }
     }
-
     printf("\n\n\n\t\t\t\t\t\t\t\t\t   Enter your age(same as,age=20):\t\t");
     scanf("%d",&s.age);
     printf("\n\n\t\t\t\t\t\t\t\t\t   Enter today's date(dd/mm/yyyy):\t\t");
@@ -3485,7 +3484,7 @@ int howto(int i)
         delay(30);
         printf("\t\t\t\xDC Think of your body as one giant straight line.\n");
         delay(30);
-        printf("\t\t\t\xDC If you have a problem getting the proper form with your body, try this (yes I’m serious).\n");
+        printf("\t\t\t\xDC If you have a problem getting the proper form with your body, try this (yes IÂ’m serious).\n");
         delay(30);
         printf("\t\t\t\xDC Your head should be looking slightly ahead of you, not straight down.\n");
         delay(30);
